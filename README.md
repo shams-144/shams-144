@@ -32,7 +32,5 @@ Web developer with 9+ years' expertise in crafting responsive Frontend & Backend
  <a href="https://www.linkedin.com/in/shams144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
    <a href="https://www.stackoverflow.com/users/jahangeer-shams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<a href="http://www.github.com/shams-144"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shams-144&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
