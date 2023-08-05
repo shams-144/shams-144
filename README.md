@@ -10,7 +10,7 @@ Web developer with 9+ years' expertise in crafting responsive Frontend & Backend
 *   🖥️  See my portfolio at [My Portfolio](http://www.linkedin.com/in/shams144/)
 *   ✉️  You can contact me at [engr.jahangeer.shams@gmail.com](mailto:engr.jahangeer.shams@gmail.com)
 *   🚀  I'm currently working on [SMS Studio](http://sms.studio)
-*   🧠  I'm learning a new framework Yii2
+*   🧠  I'm learning a new framework Yii2 and AWS
 *   🤝  I'm open to collaborating on interesting project
 ### Skills 
 <p align="left">
