@@ -9,8 +9,8 @@ Web developer with 9+ years' expertise in crafting responsive Frontend & Backend
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [My Portfolio](http://www.linkedin.com/in/shams144/)
 *   ✉️  You can contact me at [engr.jahangeer.shams@gmail.com](mailto:engr.jahangeer.shams@gmail.com)
-*   🚀  I'm currently working on [SMS Studio](http://sms.studio)
-*   🧠  I'm learning a new framework Yii2 and AWS
+*   🚀  I'm currently working on [linkedCraft](https://linkedcraft.io)
+*   🧠  I'm learning a AI Automation & Workflow in N8N
 *   🤝  I'm open to collaborating on interesting project
 ### Skills 
 <p align="left">
