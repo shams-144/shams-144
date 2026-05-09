@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Web Developer
 --------------------
 
-Web developer with 9+ years' expertise in crafting responsive Frontend & Backend solutions. Proficient in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, WordPress, and more. Skilled in REST API, and GitHub. Let's innovate together!
+Web developer with 12+ years' expertise in crafting responsive Frontend & Backend solutions. Proficient in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, WordPress, and more. Skilled in REST API, and GitHub. Let's innovate together!
 
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [My Portfolio](http://www.linkedin.com/in/shams144/)
