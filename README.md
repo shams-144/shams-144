@@ -226,26 +226,12 @@ Full-stack link management platform with **1,300+ users**. Features analytics da
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shams-144&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shams-144&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" alt="GitHub streak stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=shams-144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub overall stats" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-144&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top languages" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
-
-*"Turning complex problems into elegant, scalable solutions — one commit at a time."*
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engr.jahangeer.shams@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engr.jahangeer.shams@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams144)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/shams144/)
 
@@ -254,3 +240,4 @@ Full-stack link management platform with **1,300+ users**. Features analytics da
 <img src="assets/footer.svg" alt="Footer banner — Let's build something amazing together" width="100%" />
 
 </div>
+
