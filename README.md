@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Jahangeer%20Shams&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%26%20AI%20Automation%20Engineer&descSize=17&descAlignY=58" width="100%" />
+<img src="assets/header.svg" alt="Muhammad Jahangeer Shams — Senior Full-Stack Developer & AI Automation Engineer" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=10%2B+Years+Full-Stack+Development;PHP+%7C+Laravel+%7C+Next.js+%7C+React;AI+Automation+%26+LLM+Integration+Expert;SaaS+Builder+%26+Remote+Team+Lead;n8n+Workflow+Automation+Specialist)](https://git.io/typing-svg)
+[![Intro typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=10%2B+Years+Full-Stack+Development;PHP+%7C+Laravel+%7C+Next.js+%7C+React;AI+Automation+%26+LLM+Integration+Expert;SaaS+Builder+%26+Remote+Team+Lead;n8n+Workflow+Automation+Specialist)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,12 +20,24 @@
 
 </div>
 
+## Table of Contents
+
+- [About Me](#about)
+- [At a Glance](#at-a-glance)
+- [Tech Stack & Skills](#tech-stack--skills)
+- [Shipped Products](#shipped-products)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [GitHub Stats](#github-stats)
+- [Contact](#contact)
+
 ---
 
 <table>
 <tr>
 <td valign="top" width="55%">
 
+<a id="about"></a>
 ## 🚀 About Me
 
 Senior Full-Stack Developer with **10+ years** of experience crafting scalable web applications and AI-powered products. I specialize in **PHP (Laravel, Yii2)** and **JavaScript (Next.js, React)**, with deep expertise in **AI-assisted development (vibe coding)**, **n8n workflow automation**, and **LLM integration**. I've shipped multiple SaaS products independently and led remote teams across US, UAE, and international markets.
@@ -42,6 +54,7 @@ Senior Full-Stack Developer with **10+ years** of experience crafting scalable w
 </td>
 <td valign="top" width="45%">
 
+<a id="at-a-glance"></a>
 ## 📊 At a Glance
 
 |  |  |
@@ -61,6 +74,7 @@ Senior Full-Stack Developer with **10+ years** of experience crafting scalable w
 
 ---
 
+<a id="tech-stack--skills"></a>
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI & Automation
@@ -113,6 +127,7 @@ Senior Full-Stack Developer with **10+ years** of experience crafting scalable w
 
 ---
 
+<a id="shipped-products"></a>
 ## 🚢 Shipped Products
 
 <table>
@@ -145,23 +160,12 @@ Full-stack link management platform with **1,300+ users**. Features analytics da
 
 </td>
 
-<td width="33%" valign="top">
-
-### 📱 [TryQRCode.com](https://tryqrcode.com)
-**Free QR Code Generator**
-
-Free, independently developed and deployed QR code generation tool — built, maintained, and shipped solo.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-
 </tr>
 </table>
 
 ---
 
+<a id="work-experience"></a>
 ## 💼 Work Experience
 
 <details open>
@@ -208,6 +212,7 @@ Free, independently developed and deployed QR code generation tool — built, ma
 
 ---
 
+<a id="education"></a>
 ## 🎓 Education
 
 | | Degree | Institution | Period |
@@ -216,16 +221,17 @@ Free, independently developed and deployed QR code generation tool — built, ma
 
 ---
 
+<a id="github-stats"></a>
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shams-144&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=shams-144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shams-144&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shams-144&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub overall stats" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-144&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams-144&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top languages" width="40%" />
 
 </div>
 
@@ -245,6 +251,6 @@ Free, independently developed and deployed QR code generation tool — built, ma
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" alt="Footer banner — Let's build something amazing together" width="100%" />
 
 </div>
